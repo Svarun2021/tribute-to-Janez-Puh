@@ -1,0 +1,32 @@
+#image {
+  max-width: 500px;
+  max-height: 400px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#title{
+    color: rgb(54, 51, 51);
+    font-size: 50px;
+    text-align: center; 
+    margin: 25px";
+}
+ 
+#img-caption{
+  text-align: center;
+}
+
+#tribute-info{
+  padding: 30px;
+}
+
+#tribute-link{
+  margin-left: 50px;
+  text-decoration: none;
+}
+
+h2{
+  text-align: center;
+}
